@@ -1,4 +1,4 @@
-Membuat file latihannnlabb2
+Membuat file latihannnlabb2.
 ketik cd /d untuk menentukan penyimpanan file. 
 ketik bahasa_pemrograman untuk membuat file.
 masukkan  user.name dan user.email untuk mengatur nama pengguna dan email secara glonal. 
