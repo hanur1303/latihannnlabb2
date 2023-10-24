@@ -16,3 +16,5 @@ ketik git clone untuk mengcopy repository server dan otomatis membuat satu direk
 ![image](https://github.com/hanur1303/latihannnlabb2/assets/148194701/a8582a57-fc96-48b8-82c0-83a108a58112)
 ![image](https://github.com/hanur1303/latihannnlabb2/assets/148194701/d5e8e58f-36a4-4421-bc62-3b4dc8a88142)
 ![image](https://github.com/hanur1303/latihannnlabb2/assets/148194701/ca875e57-5e3f-4eb1-b7ae-f7787befa0a9)
+
+
